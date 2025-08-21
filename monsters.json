@@ -1,0 +1,782 @@
+[
+    {
+        "challenge_rating": "1/8",
+        "name_en": "[Gremishka]",
+        "name_ru": "Гремишка",
+        "type": "Монстр"
+    },
+    {
+        "challenge_rating": "15",
+        "name_en": "[Strahd, Master of Death House]",
+        "name_ru": "Страд, хозяин Дома Смерти",
+        "type": "Нежить"
+    },
+    {
+        "challenge_rating": "30",
+        "name_en": "[Aspect of Tiamat]",
+        "name_ru": "Аспект Тиамат",
+        "type": "Дракон"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Ghelryn Foehammer]",
+        "name_ru": "Гелрин Фоухаммер",
+        "type": "Гуманоид"
+    },
+    {
+        "challenge_rating": "7",
+        "name_en": "[Shadar-kai Shadow Dancer]",
+        "name_ru": "Шадар-кай теневой танцор",
+        "type": "Гуманоид"
+    },
+    {
+        "challenge_rating": "2",
+        "name_en": "[Swarm of Poisonous Snakes]",
+        "name_ru": "Рой ядовитых змей",
+        "type": "Стая крошечных зверей"
+    },
+    {
+        "challenge_rating": "28",
+        "name_en": "[Bronze Greatwyrm]",
+        "name_ru": "Великий бронзовый вирм",
+        "type": "Дракон"
+    },
+    {
+        "challenge_rating": "30",
+        "name_en": "[Tiamat]",
+        "name_ru": "Тиамат",
+        "type": "Исчадие"
+    },
+    {
+        "challenge_rating": "28",
+        "name_en": "[Brass Greatwyrm]",
+        "name_ru": "Великий латунный вирм",
+        "type": "Дракон"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Celestial Spirit]",
+        "name_ru": "Дух Небожителя",
+        "type": "Небожитель"
+    },
+    {
+        "challenge_rating": "9",
+        "name_en": "[Clay Golem]",
+        "name_ru": "Глиняный голем",
+        "type": "Конструкт"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Blighted Sapling]",
+        "name_ru": "Заражённый саженец",
+        "type": "Растение"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[True Teratekt]",
+        "name_ru": "Истинный тератект",
+        "type": "Монстр"
+    },
+    {
+        "challenge_rating": "1/4",
+        "name_en": "[Blink dog]",
+        "name_ru": "Мерцающий пёс",
+        "type": "Фея"
+    },
+    {
+        "challenge_rating": "27",
+        "name_en": "[Blue Greatwyrm]",
+        "name_ru": "Великий синий вирм",
+        "type": "Дракон"
+    },
+    {
+        "challenge_rating": "3",
+        "name_en": "[Duergar Screamer]",
+        "name_ru": "Дуэргарский крикун",
+        "type": "Конструкт"
+    },
+    {
+        "challenge_rating": "4",
+        "name_en": "[Banshee]",
+        "name_ru": "Баньши",
+        "type": "Нежить"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Duvessa Shane]",
+        "name_ru": "Дювесса Шейн",
+        "type": "Гуманоид"
+    },
+    {
+        "challenge_rating": "28",
+        "name_en": "[Silver Greatwyrm]",
+        "name_ru": "Великий серебряный вирм",
+        "type": "Дракон"
+    },
+    {
+        "challenge_rating": "22",
+        "name_en": "[Geryon MPMM]",
+        "name_ru": "Герион",
+        "type": "Исчадие"
+    },
+    {
+        "challenge_rating": "26",
+        "name_en": "[Cradle of the Cloud Scion]",
+        "name_ru": "Колыбель облачного отпрыска",
+        "type": "Элементаль"
+    },
+    {
+        "challenge_rating": "22",
+        "name_en": "[Jarad Vod Savo]",
+        "name_ru": "Джарад Вод Саво",
+        "type": "Нежить"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Deck Defender]",
+        "name_ru": "Защитник колоды",
+        "type": "Конструкт"
+    },
+    {
+        "challenge_rating": "26",
+        "name_en": "[Ancient Time Dragon]",
+        "name_ru": "Древний дракон времени",
+        "type": "Дракон"
+    },
+    {
+        "challenge_rating": "27",
+        "name_en": "[Mephistopheles]",
+        "name_ru": "Мефистофель",
+        "type": "Исчадие"
+    },
+    {
+        "challenge_rating": "28",
+        "name_en": "[Sul Khatesh]",
+        "name_ru": "Сул Хатеш",
+        "type": "Исчадие"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Spirit Dragon]",
+        "name_ru": "Духовный дракон",
+        "type": "Дракон"
+    },
+    {
+        "challenge_rating": "26",
+        "name_en": "[Orcus]",
+        "name_ru": "Оркус",
+        "type": "Исчадие"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Fey Spirit]",
+        "name_ru": "Дух Феи",
+        "type": "Фея"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Fiendish Spirit]",
+        "name_ru": "Дух Исчадия",
+        "type": "Исчадие"
+    },
+    {
+        "challenge_rating": "1/8",
+        "name_en": "[Giant Crab]",
+        "name_ru": "Гигантский краб",
+        "type": "Зверь"
+    },
+    {
+        "challenge_rating": "25",
+        "name_en": "[Belial]",
+        "name_ru": "Белиал",
+        "type": "Исчадие"
+    },
+    {
+        "challenge_rating": "1/8",
+        "name_en": "[Dolphin]",
+        "name_ru": "Дельфин",
+        "type": "Зверь"
+    },
+    {
+        "challenge_rating": "2",
+        "name_en": "[Skeletal Swarm]",
+        "name_ru": "Рой скелетов",
+        "type": "Рой"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Undead Spirit]",
+        "name_ru": "Дух Нежити",
+        "type": "Нежить"
+    },
+    {
+        "challenge_rating": "26",
+        "name_en": "[Crystal Greatwyrm]",
+        "name_ru": "Великий кристаллический вирм",
+        "type": "Дракон"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Aberrant Spirit]",
+        "name_ru": "Дух Аберрации",
+        "type": "Аберрация"
+    },
+    {
+        "challenge_rating": "1",
+        "name_en": "[Pterafolk]",
+        "name_ru": "Птералюд",
+        "type": "Монстр"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Drake Companion]",
+        "name_ru": "Дрейк Компаньон",
+        "type": "Дракон"
+    },
+    {
+        "challenge_rating": "27",
+        "name_en": "[Scion of Stronmaus]",
+        "name_ru": "Отпрыск Стронмауса",
+        "type": "Великан"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Geist]",
+        "name_ru": "Дух",
+        "type": "Нежить"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[True Teratekt Guardian]",
+        "name_ru": "Истинный тератект-страж",
+        "type": "Монстр"
+    },
+    {
+        "challenge_rating": "26",
+        "name_en": "[Demogorgon MPMM]",
+        "name_ru": "Демогоргон",
+        "type": "Исчадие"
+    },
+    {
+        "challenge_rating": "26",
+        "name_en": "[Zariel MPMM]",
+        "name_ru": "Зариэль",
+        "type": "Исчадие"
+    },
+    {
+        "challenge_rating": "28",
+        "name_en": "[Eriflamme]",
+        "name_ru": "Эрифламма",
+        "type": "Элементаль"
+    },
+    {
+        "challenge_rating": "1/4",
+        "name_en": "[Metallic Warbler]",
+        "name_ru": "Металлическая славка",
+        "type": "Конструкт"
+    },
+    {
+        "challenge_rating": "7",
+        "name_en": "[Witherbloom Professor of Decay]",
+        "name_ru": "Профессор увядания Визерблума",
+        "type": "Гуманоид"
+    },
+    {
+        "challenge_rating": "27",
+        "name_en": "[Green Greatwyrm]",
+        "name_ru": "Великий зелёный вирм",
+        "type": "Дракон"
+    },
+    {
+        "challenge_rating": "26",
+        "name_en": "[Tromokratis]",
+        "name_ru": "Тромократ",
+        "type": "Монстр"
+    },
+    {
+        "challenge_rating": "22",
+        "name_en": "[Elder Brain Dragon]",
+        "name_ru": "Дракон старшего мозга",
+        "type": "Аберрация"
+    },
+    {
+        "challenge_rating": "16",
+        "name_en": "[Phoenix]",
+        "name_ru": "Феникс",
+        "type": "Элементаль"
+    },
+    {
+        "challenge_rating": "26",
+        "name_en": "[Niv-Mizzet]",
+        "name_ru": "Нив-Миззет",
+        "type": "Дракон"
+    },
+    {
+        "challenge_rating": "3",
+        "name_en": "[kuo-toa Monitor]",
+        "name_ru": "Куо-тоа надзиратель",
+        "type": "Гуманоид"
+    },
+    {
+        "challenge_rating": "4",
+        "name_en": "[Barghest MPMM]",
+        "name_ru": "Баргест",
+        "type": "Исчадие"
+    },
+    {
+        "challenge_rating": "27",
+        "name_en": "[White Greatwyrm]",
+        "name_ru": "Великий белый вирм",
+        "type": "Дракон"
+    },
+    {
+        "challenge_rating": "1/4",
+        "name_en": "[The Wretched]",
+        "name_ru": "Мерзость",
+        "type": "Монстр"
+    },
+    {
+        "challenge_rating": "9",
+        "name_en": "[Necromancer Wizard]",
+        "name_ru": "Волшебник школы Некромантии",
+        "type": "Гуманоид"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Draconic Spirit]",
+        "name_ru": "Дух дракона",
+        "type": "Дракон"
+    },
+    {
+        "challenge_rating": "13",
+        "name_en": "[Adult Lunar Dragon]",
+        "name_ru": "Взрослый лунный дракон",
+        "type": "Дракон"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Darathra Shendrel]",
+        "name_ru": "Даратра Шендрел",
+        "type": "Гуманоид"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Iron Spider]",
+        "name_ru": "Железный паук",
+        "type": "Конструкт"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Royal True Teratekt]",
+        "name_ru": "Королевский истинный тератект",
+        "type": "Монстр"
+    },
+    {
+        "challenge_rating": "16",
+        "name_en": "[Phoenix MPMM]",
+        "name_ru": "Феникс",
+        "type": "Элементаль"
+    },
+    {
+        "challenge_rating": "26",
+        "name_en": "[Baalzebul]",
+        "name_ru": "Вельзевул",
+        "type": "Исчадие"
+    },
+    {
+        "challenge_rating": "1/2",
+        "name_en": "[Shifter]",
+        "name_ru": "Шифтер",
+        "type": "Гуманоид"
+    },
+    {
+        "challenge_rating": "15",
+        "name_en": "[Strahd von Zarovich]",
+        "name_ru": "Страд фон Зарович",
+        "type": "Нежить"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Reaper Spirit]",
+        "name_ru": "Дух жнеца",
+        "type": "Нежить"
+    },
+    {
+        "challenge_rating": "27",
+        "name_en": "[Dispater]",
+        "name_ru": "Диспатер",
+        "type": "Исчадие"
+    },
+    {
+        "challenge_rating": "25",
+        "name_en": "[Velomachus Lorehold]",
+        "name_ru": "Веломахус Лорхолд",
+        "type": "Дракон"
+    },
+    {
+        "challenge_rating": "2",
+        "name_en": "[Swarm of Hoard Scarabs]",
+        "name_ru": "Рой сокровищных скарабеев",
+        "type": "Стая крошечных зверей"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Shadow Spirit]",
+        "name_ru": "Дух Тени",
+        "type": "Монстр"
+    },
+    {
+        "challenge_rating": "26",
+        "name_en": "[Demogorgon]",
+        "name_ru": "Демогоргон",
+        "type": "Исчадие"
+    },
+    {
+        "challenge_rating": "27",
+        "name_en": "[Cradle of the Storm Scion]",
+        "name_ru": "Колыбель штормового отпрыска",
+        "type": "Элементаль"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Beldora]",
+        "name_ru": "Белдора",
+        "type": "Гуманоид"
+    },
+    {
+        "challenge_rating": "9",
+        "name_en": "[Braxat]",
+        "name_ru": "Браксат",
+        "type": "Великан"
+    },
+    {
+        "challenge_rating": "1/8",
+        "name_en": "[Noble]",
+        "name_ru": "Дворянин",
+        "type": "Гуманоид"
+    },
+    {
+        "challenge_rating": "26",
+        "name_en": "[Topaz Greatwyrm]",
+        "name_ru": "Великий топазный вирм",
+        "type": "Дракон"
+    },
+    {
+        "challenge_rating": "7",
+        "name_en": "[Thorn Giant]",
+        "name_ru": "Шипастый гигант",
+        "type": "Растение"
+    },
+    {
+        "challenge_rating": "3",
+        "name_en": "[Dragon Army Dragonnel]",
+        "name_ru": "Драконнель Армии драконов",
+        "type": "Дракон"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Warrior Spirit]",
+        "name_ru": "Дух воителя",
+        "type": "Нежить"
+    },
+    {
+        "challenge_rating": "26",
+        "name_en": "[Levistus]",
+        "name_ru": "Левистус",
+        "type": "Исчадие"
+    },
+    {
+        "challenge_rating": "1",
+        "name_en": "[Scarecrow]",
+        "name_ru": "Пугало",
+        "type": "Конструкт"
+    },
+    {
+        "challenge_rating": "26",
+        "name_en": "[Zariel]",
+        "name_ru": "Зариэль",
+        "type": "Исчадие"
+    },
+    {
+        "challenge_rating": "13",
+        "name_en": "[Adult Topaz Dragon]",
+        "name_ru": "Взрослый топазный дракон",
+        "type": "Дракон"
+    },
+    {
+        "challenge_rating": "27",
+        "name_en": "[Black Greatwyrm]",
+        "name_ru": "Великий чёрный вирм",
+        "type": "Дракон"
+    },
+    {
+        "challenge_rating": "25",
+        "name_en": "[Bel]",
+        "name_ru": "Бэл",
+        "type": "Исчадие"
+    },
+    {
+        "challenge_rating": "3",
+        "name_en": "[Leucrotta]",
+        "name_ru": "Лекротта",
+        "type": "Монстр"
+    },
+    {
+        "challenge_rating": "28",
+        "name_en": "[Copper Greatwyrm]",
+        "name_ru": "Великий медный вирм",
+        "type": "Дракон"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Wildfire Spirit]",
+        "name_ru": "Дух дикого огня",
+        "type": "Элементаль"
+    },
+    {
+        "challenge_rating": "1/8",
+        "name_en": "[Blood-Toll Harpy]",
+        "name_ru": "Гарпия кровавой дани",
+        "type": "Монстр"
+    },
+    {
+        "challenge_rating": "1/8",
+        "name_en": "[Giant Weasel]",
+        "name_ru": "Гигантская куница",
+        "type": "Зверь"
+    },
+    {
+        "challenge_rating": "3",
+        "name_en": "[Wasteland Dragonnel]",
+        "name_ru": "Драконнель Пустоши",
+        "type": "Дракон"
+    },
+    {
+        "challenge_rating": "1",
+        "name_en": "[Rakdos Performer, Blade Juggler]",
+        "name_ru": "Ракдос-исполнитель, жонглер клинками",
+        "type": "Гуманоид"
+    },
+    {
+        "challenge_rating": "1/2",
+        "name_en": "[Kiddywidget]",
+        "name_ru": "Шустрик",
+        "type": "Конструкт"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Tiny servant]",
+        "name_ru": "Крошечный слуга",
+        "type": "Конструкт"
+    },
+    {
+        "challenge_rating": "26",
+        "name_en": "[Sapphire Greatwyrm]",
+        "name_ru": "Великий сапфировый вирм",
+        "type": "Дракон"
+    },
+    {
+        "challenge_rating": "13",
+        "name_en": "[High Fae Noble]",
+        "name_ru": "Дворянин высших фей",
+        "type": "Фея"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Bestial Spirit]",
+        "name_ru": "Дух Зверя",
+        "type": "Зверь"
+    },
+    {
+        "challenge_rating": "7",
+        "name_en": "[Flesh Meld]",
+        "name_ru": "Шмат плоти",
+        "type": "Аберрация"
+    },
+    {
+        "challenge_rating": "7",
+        "name_en": "[Lorehold Professor of Chaos]",
+        "name_ru": "Профессор хаоса Лорхолда",
+        "type": "Гуманоид"
+    },
+    {
+        "challenge_rating": "9",
+        "name_en": "[Deep Crow]",
+        "name_ru": "Глубинный ворон",
+        "type": "Монстр"
+    },
+    {
+        "challenge_rating": "9",
+        "name_en": "[Glabrezu]",
+        "name_ru": "Глабрезу",
+        "type": "Исчадие"
+    },
+    {
+        "challenge_rating": "27",
+        "name_en": "[Red Greatwyrm]",
+        "name_ru": "Великий красный вирм",
+        "type": "Дракон"
+    },
+    {
+        "challenge_rating": "1/8",
+        "name_en": "[Giant Rat]",
+        "name_ru": "Гигантская крыса",
+        "type": "Зверь"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Darz Helgar]",
+        "name_ru": "Дарз Хелгар",
+        "type": "Гуманоид"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Beast of the Land]",
+        "name_ru": "Земной зверь",
+        "type": "Зверь"
+    },
+    {
+        "challenge_rating": "1/8",
+        "name_en": "[Felbarren Dwarf]",
+        "name_ru": "Дварф Фелбарра",
+        "type": "Гуманоид"
+    },
+    {
+        "challenge_rating": "28",
+        "name_en": "[Gold Greatwyrm]",
+        "name_ru": "Великий золотой вирм",
+        "type": "Дракон"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Draconic Companion]",
+        "name_ru": "Драконий компаньон",
+        "type": "Дракон"
+    },
+    {
+        "challenge_rating": "30",
+        "name_en": "[Aspect of Bahamut]",
+        "name_ru": "Аспект Бахамута",
+        "type": "Дракон"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Markham Southwell]",
+        "name_ru": "Маркхэм Саутвелл",
+        "type": "Гуманоид"
+    },
+    {
+        "challenge_rating": "1/8",
+        "name_en": "[Mountain Goat]",
+        "name_ru": "Горный козёл",
+        "type": "Зверь"
+    },
+    {
+        "challenge_rating": "30",
+        "name_en": "[Tarrasque]",
+        "name_ru": "Тараск",
+        "type": "Монстр"
+    },
+    {
+        "challenge_rating": "4",
+        "name_en": "[Barghest]",
+        "name_ru": "Баргест",
+        "type": "Исчадие"
+    },
+    {
+        "challenge_rating": "26",
+        "name_en": "[Orcus MPMM]",
+        "name_ru": "Оркус",
+        "type": "Исчадие"
+    },
+    {
+        "challenge_rating": "26",
+        "name_en": "[Scion of Memnor]",
+        "name_ru": "Отпрыск Мемнора",
+        "type": "Великан"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Halaster Puppet]",
+        "name_ru": "Кукла Халастера",
+        "type": "Конструкт"
+    },
+    {
+        "challenge_rating": "30",
+        "name_en": "[Asmodeus]",
+        "name_ru": "Асмодей",
+        "type": "Исчадие"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Construct Spirit]",
+        "name_ru": "Дух конструкта",
+        "type": "Конструкт"
+    },
+    {
+        "challenge_rating": "26",
+        "name_en": "[Mammon]",
+        "name_ru": "Маммон",
+        "type": "Исчадие"
+    },
+    {
+        "challenge_rating": "28",
+        "name_en": "[Rak Tulkhesh]",
+        "name_ru": "Рак Тулхеш",
+        "type": "Исчадие"
+    },
+    {
+        "challenge_rating": "16",
+        "name_en": "[Fazrian]",
+        "name_ru": "Фазриан",
+        "type": "Небожитель"
+    },
+    {
+        "challenge_rating": "15",
+        "name_en": "[Umbraxakar]",
+        "name_ru": "Умбраксакар",
+        "type": "Дракон"
+    },
+    {
+        "challenge_rating": "1/2",
+        "name_en": "[Jackalwere]",
+        "name_ru": "Шакальник",
+        "type": "Гуманоид"
+    },
+    {
+        "challenge_rating": "26",
+        "name_en": "[Archduke Zariel of Avernus]",
+        "name_ru": "Эрцгерцогиня Авернуса Зариэль",
+        "type": "Исчадие"
+    },
+    {
+        "challenge_rating": "3",
+        "name_en": "[Hook Horror Spore Servant]",
+        "name_ru": "Крюкастый ужас споровый слуга",
+        "type": "Растение"
+    },
+    {
+        "challenge_rating": "9",
+        "name_en": "[Evoker Wizard]",
+        "name_ru": "Волшебник школы Воплощения",
+        "type": "Гуманоид"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Elemental Spirit]",
+        "name_ru": "Дух Стихии",
+        "type": "Элементаль"
+    },
+    {
+        "challenge_rating": "—",
+        "name_en": "[Ancient Companion]",
+        "name_ru": "Компаньон из прошлого",
+        "type": "Конструкт"
+    },
+    {
+        "challenge_rating": "7",
+        "name_en": "[Psionic Ashenwight]",
+        "name_ru": "Псионическое пепельное умертвие",
+        "type": "Нежить"
+    }
+]
